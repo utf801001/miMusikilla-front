@@ -1,0 +1,21 @@
+/* .navbar-collapse {
+  -ms-flex-preferred-size: 100%;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
+  -ms-flex-align: center;
+  align-items: center;
+} */
+
+.footer {
+  color: green !important;
+  bottom: 0;
+}
+
+/* .navbar-nav {
+  display: inline-flex;
+ }
+
+ .nav-link {
+  display: inline-flex !important; 
+   padding: .5rem 1rem
+ } */
