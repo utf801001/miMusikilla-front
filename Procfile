@@ -1,2 +1,2 @@
 //Profile
-web: node main.js
+web: node ./src/main.js
