@@ -5,7 +5,7 @@ import store from './store'
 
 import MusikillaAPI from './plugins/api/index'
 
-Vue.use(MusikillaAPI, {baseURL: 'http://localhost:3000'})
+Vue.use(MusikillaAPI, {baseURL: 'https://mimusikilla-front.herokuapp.com/'})
 
 Vue.config.productionTip = false
 
