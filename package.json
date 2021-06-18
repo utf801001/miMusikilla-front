@@ -1,6 +1,7 @@
 {
   "name": "mimusikilla-front",
   "version": "0.1.0",
+   "type": "module",
   "scripts": {
     "serve": "vue-cli-service serve --port 3001",
     "build": "vue-cli-service build",
