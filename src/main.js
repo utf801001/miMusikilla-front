@@ -3,7 +3,7 @@ import App from './App.vue'
 import router from './router/index.js'
 import store from './store/index.js'
 
-import MusikillaAPI from './plugins/api/index'
+import MusikillaAPI from './plugins/api/index.js'
 
 Vue.use(MusikillaAPI, {baseURL: 'https://mimusikilla-front.herokuapp.com/'})
 
